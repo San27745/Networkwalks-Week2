@@ -97,11 +97,15 @@ changes to those sources. Results from one run may differ from another.
 -   theHarvester
 
 ## Evidence
-
-
-
-
 Screenshots collected as evidence during the activities (stored in the screenshots/ folder):
+![Lab 1 Screenshot](week21.png)
+![Lab 1 Screenshot](week22.png)
+![Lab 1 Screenshot](week23.png)
+![Lab 1 Screenshot](week24.png)
+![Lab 1 Screenshot](week25.png)
+![Lab 1 Screenshot](week2a.png)
+![Lab 1 Screenshot](week2b.png)
+![Lab 1 Screenshot](week2c.png)
 
 ## Key Learning Outcomes
 
