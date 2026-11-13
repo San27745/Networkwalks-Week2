@@ -98,29 +98,9 @@ changes to those sources. Results from one run may differ from another.
 
 ## Evidence
 
-Add your own screenshots and saved text outputs from the practical
-exercises to the repository. A suggested folder layout is:
 
-``` text
-week-2-footprinting-reconnaissance/
-├── README.md
-├── W2-PM1/
-│   ├── screenshots/
-│   └── outputs/
-└── W2-PM4/
-    ├── screenshots/
-    └── outputs/
-```
 
-Suggested evidence to include:
 
--   W2-PM1: WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, and DNSRecon
-    outputs.
--   W2-PM4: theHarvester output using Baidu (limit 1000) and all sources
-    (limit 50).
--   Relevant saved text-output files.
-
-**Evidence note:** 
 Screenshots collected as evidence during the activities (stored in the screenshots/ folder):
 
 ## Key Learning Outcomes
